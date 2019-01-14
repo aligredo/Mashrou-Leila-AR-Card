@@ -971,6 +971,7 @@ GameObject:
   - component: {fileID: 1288716816}
   - component: {fileID: 1288716815}
   - component: {fileID: 1288716814}
+  - component: {fileID: 1288716819}
   m_Layer: 0
   m_Name: AlbumARCard
   m_TagString: Untagged
@@ -1088,6 +1089,21 @@ MonoBehaviour:
   mImageTargetType: 0
   mWidth: 10
   mHeight: 5.653775
+--- !u!114 &1288716819
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1288716812}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f975c3c25d0b7794ebb6d29dde74ee0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  aoede: {fileID: 976202570}
+  threeminutes: {fileID: 1587225348}
+  djin: {fileID: 742093061}
 --- !u!43 &1443817510
 Mesh:
   m_ObjectHideFlags: 0
