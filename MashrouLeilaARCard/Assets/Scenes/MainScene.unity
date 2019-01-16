@@ -482,7 +482,7 @@ GameObject:
   - component: {fileID: 742093064}
   - component: {fileID: 742093063}
   m_Layer: 0
-  m_Name: 03-Djin
+  m_Name: 03-Djin Plane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -609,7 +609,7 @@ GameObject:
   - component: {fileID: 976202573}
   - component: {fileID: 976202572}
   m_Layer: 0
-  m_Name: 01-Aoede
+  m_Name: 01-Aoede Plane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1526,7 +1526,7 @@ GameObject:
   - component: {fileID: 1587225351}
   - component: {fileID: 1587225350}
   m_Layer: 0
-  m_Name: 02-3Minutes
+  m_Name: 02-3Minutes Plane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
