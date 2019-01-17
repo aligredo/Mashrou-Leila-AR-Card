@@ -12,7 +12,7 @@ An Augmented Reality Application using Unity3d and Vuforia SDK to view lyrics vi
 ![alt text](https://res.cloudinary.com/mascota/image/upload/v1547650215/Mashrou_Leila_3.jpg)
 1. Press the button (on the recognizable image itself not in the app) to play the official lyrics video of the selected song.
 
-* [Demo-Video] (https://youtu.be/WfjbaflpzEE)
+* [Demo-Video](https://youtu.be/WfjbaflpzEE)
 
 ## Built With
 
